@@ -1,0 +1,9 @@
+> Create Database named : Grras
+> Create Table Named : candidate
+> Create Fields : id, name, add, course, contactNo, age
+> List all columns of  table.
+> List all the candidates of fullStack
+> List all the candidates which age is 20
+> List all the data of the table
+> print only name of the candidates
+

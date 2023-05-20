@@ -1,0 +1,12 @@
+name	roll	math	sci	eng
+Grras	1	86	87	85
+Ahsan	2	91	89	87
+Nirav	3	89	78	96
+Mihir	4	89	85	79
+Abhay	5	89	74	85
+Vimal	6	87	85	94
+Dixit	7	75	85	89
+Dhruv	8	85	74	74
+Prince	9	68	78	91
+Anjali	10	78	58	67
+

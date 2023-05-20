@@ -1,0 +1,17 @@
+id	name	Gender	std	Guj.	Hindi	Eng.	Eco.	Sci.	Maths
+1	Vimal	M	10	80	89	88	78	85	86
+2	Nayan	M	9	89	82	85	87	80	80
+3	Vaishali	F	8	79	89	75	85	95	85
+4	Navneet	M	10	85	79	75	89	73	83
+5	Sunil	M	9	75	78	71	82	91	93
+6	Sonali	F	8	95	76	82	73	81	94
+7	Bhoomi	F	8	85	84	92	73	81	95
+8	Shweta	F	7	89	80	99	98	97	95
+9	Radhika	F	7	85	74	86	85	83	87
+10	Helly	F	7	74	75	74	76	71	72
+11	Kirti	F	6	65	75	69	73	71	85
+12	Dax	M	6	65	85	64	75	75	71
+13	Yashvi	F	6	85	62	75	86	65	73
+14	Rishi	M	5	75	82	34	42	65	66
+15	Meshva	F	5	75	75	85	66	67	62
+	

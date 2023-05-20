@@ -1,0 +1,12 @@
+1::Vimal::M::Nikol::10::1000::Y
+2::Nayan::M::Nikol::12::2000::Y
+3::Sunil::M::Uttamnagra::12::2000::N
+4::Navneet::M::Uttamnagar::11::1500::N
+5::Vaishali::F::Bapunagar::9::500::Y
+6::Keval::M::New Nikol::8::500::Y
+7::Shweta::F::Khodiyarnagar::10::1000::N
+8::Radhika::F::Parvala::9::500::N
+9::Yashvi::F::Viratnagar::8::500::N
+10::Helly::F::Viratnagar::11::1500::Y
+11::Kirti::F::Nikol::11::1500::Y
+12::Dax::M::Nikol::12::2000::Y
